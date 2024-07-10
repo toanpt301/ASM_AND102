@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PS37329_ASM_AND102</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="sign_up">Don\'t have an account? <b>Sign up</b></string>
+    <string name="edit"><u>Chỉnh sửa</u></string>
+    <string name="del"><u>Xóa</u></string>
+</resources>
